@@ -1,6 +1,6 @@
 You can use `SetActive(true)` to activate a GameObject and `SetActive(false)` to deactive a GameObject so that it doesn't appear. 
 
-You can use `SetActive` on a public variable and drag a GameObject in the Inspector:
+You can use `SetActive` on a public variable and drag a GameObject into the Inspector:
 
 --- code ---
 ---
